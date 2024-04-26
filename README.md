@@ -1,2 +1,2 @@
 # nuevo-repositorio
-Respositorio PMED
+Repositorio PMED
